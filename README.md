@@ -55,7 +55,9 @@ Download (assignment link):
 | Task 2 (segmentation-first pipeline) | Balanced accuracy | 0.7879 | Best configuration |
 
 ## Report Figures (Auto-extracted)
-
+<p align="center">
+  <img src="assets/report_figures/report-038.png" alt="report-038.png" width="400">
+</p>
 All figures were extracted from the PDF and embedded below in report order. For figure captions and discussion, see the report.
 
 <details>
@@ -63,40 +65,38 @@ All figures were extracted from the PDF and embedded below in report order. For 
 
 <p align="center">
   <img src="assets/report_figures/report-003.png" width="32%" />
-  <img src="assets/report_figures/report-004.png" width="32%" />
   <img src="assets/report_figures/report-006.png" width="32%" />
-  <img src="assets/report_figures/report-007.png" width="32%" />
-  <img src="assets/report_figures/report-008.png" width="32%" />
+  <img src="assets/report_figures/report-018.png" width="32%" />
+  <img src="assets/report_figures/report-004.png" width="32%" />  
   <img src="assets/report_figures/report-010.png" width="32%" />
   <img src="assets/report_figures/report-012.png" width="32%" />
   <img src="assets/report_figures/report-014.png" width="32%" />
   <img src="assets/report_figures/report-016.png" width="32%" />
-  <img src="assets/report_figures/report-018.png" width="32%" />
+  <img src="assets/report_figures/report-008.png" width="32%" />
+  <img src="assets/report_figures/report-020.png" width="32%" />
+  <img src="assets/report_figures/report-022.png" width="32%" />
+  <img src="assets/report_figures/report-024.png" width="32%" />
+  <img src="assets/report_figures/report-026.png" width="32%" />
+    <img src="assets/report_figures/report-034.png" width="32%" />
+  <img src="assets/report_figures/report-030.png" width="32%" />
+  <img src="assets/report_figures/report-028.png" width="32%" />
+  <img src="assets/report_figures/report-032.png" width="32%" />
+  <img src="assets/report_figures/report-036.png" width="32%" />
+  <img src="assets/report_figures/report-039.png" width="32%" />
+  <img src="assets/report_figures/report-041.png" width="32%" />
+  <img src="assets/report_figures/report-048.png" width="32%" />
+  <img src="assets/report_figures/report-045.png" width="32%" />
+  <img src="assets/report_figures/report-043.png" width="32%" />
+  <img src="assets/report_figures/report-049.png" width="32%" />
+  <img src="assets/report_figures/report-051.png" width="32%" />
+  <img src="assets/report_figures/report-053.png" width="32%" />
+  <img src="assets/report_figures/report-055.png" width="32%" />
+  <img src="assets/report_figures/report-062.png" width="32%" />
+  <img src="assets/report_figures/report-064.png" width="32%" />
+  <img src="assets/report_figures/report-060.png" width="32%" />
+  <img src="assets/report_figures/report-056.png" width="32%" />
+  <img src="assets/report_figures/report-058.png" width="32%" />
 </p>
-![report-020.png](assets/report_figures/report-020.png)
-![report-022.png](assets/report_figures/report-022.png)
-![report-024.png](assets/report_figures/report-024.png)
-![report-026.png](assets/report_figures/report-026.png)
-![report-028.png](assets/report_figures/report-028.png)
-![report-030.png](assets/report_figures/report-030.png)
-![report-032.png](assets/report_figures/report-032.png)
-![report-034.png](assets/report_figures/report-034.png)
-![report-036.png](assets/report_figures/report-036.png)
-![report-038.png](assets/report_figures/report-038.png)
-![report-039.png](assets/report_figures/report-039.png)
-![report-041.png](assets/report_figures/report-041.png)
-![report-043.png](assets/report_figures/report-043.png)
-![report-045.png](assets/report_figures/report-045.png)
-![report-048.png](assets/report_figures/report-048.png)
-![report-049.png](assets/report_figures/report-049.png)
-![report-051.png](assets/report_figures/report-051.png)
-![report-053.png](assets/report_figures/report-053.png)
-![report-055.png](assets/report_figures/report-055.png)
-![report-056.png](assets/report_figures/report-056.png)
-![report-058.png](assets/report_figures/report-058.png)
-![report-060.png](assets/report_figures/report-060.png)
-![report-062.png](assets/report_figures/report-062.png)
-![report-064.png](assets/report_figures/report-064.png)
 
 </details>
 
