@@ -3,7 +3,7 @@
 This repository contains our Applied AI in Biomedicine final project on breast ultrasound (BUS) image analysis. We implement two complementary pipelines for lesion classification and segmentation, following the assignment specifications and reported in the project report.
 
 Team: Bikini Bottom Team (Ali Mehdipour, Sajjad Shaffaf)
-
+![report-002.png](assets/report_figures/report-002.png)
 ## Assignment Objectives (Summary)
 
 **Task A (classification-first):**
