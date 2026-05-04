@@ -61,16 +61,18 @@ All figures were extracted from the PDF and embedded below in report order. For 
 <details>
 <summary>Show all figures</summary>
 
-![report-003.png](assets/report_figures/report-003.png)
-![report-004.png](assets/report_figures/report-004.png)
-![report-006.png](assets/report_figures/report-006.png)
-![report-007.png](assets/report_figures/report-007.png)
-![report-008.png](assets/report_figures/report-008.png)
-![report-010.png](assets/report_figures/report-010.png)
-![report-012.png](assets/report_figures/report-012.png)
-![report-014.png](assets/report_figures/report-014.png)
-![report-016.png](assets/report_figures/report-016.png)
-![report-018.png](assets/report_figures/report-018.png)
+<p align="center">
+  <img src="assets/report_figures/report-003.png" width="32%" />
+  <img src="assets/report_figures/report-004.png" width="32%" />
+  <img src="assets/report_figures/report-006.png" width="32%" />
+  <img src="assets/report_figures/report-007.png" width="32%" />
+  <img src="assets/report_figures/report-008.png" width="32%" />
+  <img src="assets/report_figures/report-010.png" width="32%" />
+  <img src="assets/report_figures/report-012.png" width="32%" />
+  <img src="assets/report_figures/report-014.png" width="32%" />
+  <img src="assets/report_figures/report-016.png" width="32%" />
+  <img src="assets/report_figures/report-018.png" width="32%" />
+</p>
 ![report-020.png](assets/report_figures/report-020.png)
 ![report-022.png](assets/report_figures/report-022.png)
 ![report-024.png](assets/report_figures/report-024.png)
