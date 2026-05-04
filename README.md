@@ -27,6 +27,22 @@ Team: Bikini Bottom Team (Ali Mehdipour, Sajjad Shaffaf)
 Download (assignment link):
 - https://drive.google.com/drive/folders/1EkuEi0h2G_-nVuD08Z3dUJpXl63sgY79?usp=drive_link
 
+## Requirements (From Notebooks)
+
+Exact versions explicitly printed in notebook outputs:
+- segmentation-models-pytorch==0.5.0
+
+Packages installed/imported in notebooks (versions not pinned in notebook cells):
+- torch, torchvision
+- timm
+- albumentations
+- scikit-learn
+- numpy, pandas
+- matplotlib, seaborn
+- pillow
+- opencv-python
+- openpyxl
+
 ## Methods (High Level)
 
 **Task A.1 (3-class classification)**
@@ -53,6 +69,20 @@ Download (assignment link):
 | Task A.1 (classification) | Balanced accuracy | 0.8432 | EfficientNet-B0 5-fold ensemble |
 | Task A.2 (segmentation) | Dice (validation) | ~0.80 | Best model |
 | Task 2 (segmentation-first pipeline) | Balanced accuracy | 0.7879 | Best configuration |
+
+### Per-class Metrics (Task 2 Pipeline)
+
+| Class | Precision | Recall | F1 | Support |
+| --- | --- | --- | --- | --- |
+| Benign | 0.7597 | 0.8417 | 0.7986 | 139 |
+| Malignant | 0.7846 | 0.6000 | 0.6800 | 85 |
+| Normal | 0.8659 | 0.9221 | 0.8931 | 77 |
+
+### Confusion Matrices (Task 2 Pipeline)
+
+<p align="center">
+  <img src="assets/report_figures/report-051.png" alt="Task 2 pipeline confusion matrices (raw counts and row-normalized)" width="800">
+</p>
 
 ## Report Figures (Auto-extracted)
 <p align="center">
