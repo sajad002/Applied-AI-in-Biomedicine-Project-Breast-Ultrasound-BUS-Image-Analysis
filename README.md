@@ -4,7 +4,9 @@ This repository contains our Applied AI in Biomedicine final project on breast u
 
 Team: Bikini Bottom Team (Ali Mehdipour, Sajjad Shaffaf)
 
-<img src="assets/report_figures/report-002.png" alt="report-002.png" width="300">
+<p align="center">
+  <img src="assets/report_figures/report-002.png" alt="report-002.png" width="400">
+</p>
 
 ## Assignment Objectives (Summary)
 
